@@ -1,4 +1,4 @@
-# BankOfOrangeCountry
+# Bank Of Orange Country Class
 
 ## Task Description:
 
