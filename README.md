@@ -1,4 +1,4 @@
-# Bank Of Orange Country Class
+# Bank Of Orange County Class
 
 ## Task Description:
 
